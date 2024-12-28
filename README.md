@@ -3,7 +3,7 @@ NAME:JAISREE B
 REGISTRATION NO:24002225
 
 
-**EXPERIMENT 5 JKFLIPFLOP USING IF ELSE**
+**EXPERIMENT 5 JKFLIPFLOP USING USING VERILOG**
 
 **AIM:** 
 
@@ -61,7 +61,8 @@ step-6 Run the program.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot (78)](https://github.com/user-attachments/assets/b88f41e7-1a48-4df3-964a-c5231b29bcee)
+![Screenshot (86)](https://github.com/user-attachments/assets/d08912e1-f63f-4e04-a2c1-e08ff533ee0f)
+
 
 **RESULTS**
 
