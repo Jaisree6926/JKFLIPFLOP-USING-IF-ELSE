@@ -53,15 +53,17 @@ step-6 Run the program.
 
 **PROGRAM**
 
-![Screenshot (76)](https://github.com/user-attachments/assets/98935ad1-463d-40f1-9075-1da2bb31e9a0)
+![Screenshot (94)](https://github.com/user-attachments/assets/08a0ac79-b693-404a-8128-20ef1367dfd7)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot (77)](https://github.com/user-attachments/assets/42d8e8af-6e12-496a-b32b-0ef06ff7951f)
+![Screenshot (93)](https://github.com/user-attachments/assets/ab7628c9-161e-46d5-8867-b011456c55f7)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot (86)](https://github.com/user-attachments/assets/d08912e1-f63f-4e04-a2c1-e08ff533ee0f)
+![Screenshot (95)](https://github.com/user-attachments/assets/8a160271-db22-42f0-8a4e-6bfa97d239c5)
+
 
 
 **RESULTS**
