@@ -62,7 +62,7 @@ step-6 Run the program.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot (95)](https://github.com/user-attachments/assets/8a160271-db22-42f0-8a4e-6bfa97d239c5)
+![400115879-32cde992-7435-4f03-88d1-ec86206d29b2](https://github.com/user-attachments/assets/625d3d47-6de4-42f0-bbc8-6c472ad9d48b)
 
 
 
